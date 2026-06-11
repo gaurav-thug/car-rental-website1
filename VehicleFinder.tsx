@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Search, Users, MapPin, Wind, Briefcase, MessageCircle } from 'lucide-react';
 import { FinderForm, Vehicle } from '../types';
-import { getRecommendations } from '../data/recommendations';
+import { getRecommendations } from './recommendations';
 
 const WA_NUMBER = '919999999999';
 
