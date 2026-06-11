@@ -1,6 +1,6 @@
 import { MapPin } from 'lucide-react';
-import { destinations } from '../data/destinations';
-import { vehicles } from '../data/vehicles';
+import { destinations } from './destinations';
+import { vehicles } from './vehicles';
 
 const typeLabel: Record<string, string> = {
   hill: '⛰ Hill Station',
