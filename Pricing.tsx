@@ -1,5 +1,5 @@
 import { Info } from 'lucide-react';
-import { vehicles } from '../data/vehicles';
+import { vehicles } from './vehicles';
 
 export default function Pricing() {
   return (
