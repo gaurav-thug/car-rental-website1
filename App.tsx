@@ -1,16 +1,16 @@
-import { useState } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Fleet from './components/Fleet';
-import VehicleFinder from './components/VehicleFinder';
-import Destinations from './components/Destinations';
-import Pricing from './components/Pricing';
-import WhyUs from './components/WhyUs';
-import Reviews from './components/Reviews';
-import FAQ from './components/FAQ';
-import BookingForm from './components/BookingForm';
-import Footer from './components/Footer';
-import WhatsAppFAB from './components/WhatsAppFAB';
+import { useState } from './react';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import Fleet from './Fleet';
+import VehicleFinder from './VehicleFinder';
+import Destinations from './Destinations';
+import Pricing from './Pricing';
+import WhyUs from './WhyUs';
+import Reviews from './Reviews';
+import FAQ from './FAQ';
+import BookingForm from './BookingForm';
+import Footer from './Footer';
+import WhatsAppFAB from './WhatsAppFAB';
 import { Vehicle } from './types';
 
 function App() {
