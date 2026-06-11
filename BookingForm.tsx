@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { MessageCircle } from 'lucide-react';
 import { BookingForm as BF } from '../types';
-import { vehicles } from '../data/vehicles';
+import { vehicles } from './vehicles';
 
 const WA_NUMBER = '919999999999';
 
