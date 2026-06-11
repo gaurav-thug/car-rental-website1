@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Users, Briefcase, Wind, Eye, MessageCircle } from 'lucide-react';
-import { vehicles, filterCategories } from '../data/vehicles';
-import { Vehicle } from '../types';
+import { vehicles, filterCategories } from './vehicles';
+import { Vehicle } from '../index';
 import VehicleModal from './VehicleModal';
 
 
